@@ -1,0 +1,2 @@
+favicon?v=2: 8480 bytes
+err2 favicon.ico: O servidor remoto retornou um erro: (404) Não Localizado.
